@@ -1,0 +1,2 @@
+- Tạo các thư mục con đặt tên: Butterfly, Cat, Cow, Chicken, Dog, Elephant, Horse, Sheep, Spider, Squirrel.
+- Để sau khi phân loại xong, ảnh sẽ được đưa vào đúng thư mục con trong thư mục Classify tương ứng.

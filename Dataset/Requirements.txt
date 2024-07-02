@@ -1,0 +1,3 @@
+- Tạo các thư mục con đặt tên: Butterfly, Cat, Cow, Chicken, Dog, Elephant, Horse, Sheep, Spider, Squirrel.
+- Tải số lượng ảnh mong muốn và lưu vào các thư mục con trong thư mục dataset tương ứng.
+- Sau đó vào file train.py tiến hành chạy chương trình để huấn luyện mô hình -> Tạo ra animals.keras
